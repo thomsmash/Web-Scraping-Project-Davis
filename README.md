@@ -1,4 +1,4 @@
-#ReadMe.md
+# ReadMe.md
 
 My goal for this project was to scrape the top 100 movies from Metacritic and Rotten Tomatoes. Unfortunately,
 I could not scrape Rotten Tomatoes without Selenium and I couldn't get Selenium working on my computer in time.
